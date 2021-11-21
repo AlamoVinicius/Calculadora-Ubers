@@ -7,7 +7,7 @@
  
 ![interface inicial calculator](https://user-images.githubusercontent.com/89879430/142006314-e4291081-8b1e-459e-b493-6b20b885e5f6.png)
 
-Você pode obter um resultado satisfatório analisando valores __CORRIDA, DIÁRIO OU ATÉ MENSAL__:
+Você pode obter um resultado satisfatório analisando valores da __CORRIDA, DIÁRIO OU ATÉ MENSAL__:
 
  ## CORRIDA ÚNICA /  VALOR DIÁRIO : 
  
