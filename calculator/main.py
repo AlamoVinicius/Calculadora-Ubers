@@ -99,5 +99,6 @@ class Application:
         
 
 janela = Tk()
+janela.title('Calculator Uber')
 Application(janela)
 janela.mainloop()
